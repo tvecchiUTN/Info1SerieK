@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gestion.h": "c",
+        "stdlib.h": "c"
+    }
+}

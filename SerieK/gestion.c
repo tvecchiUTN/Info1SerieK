@@ -2,7 +2,3 @@
 #include <stdlib.h>
 #include "gestion.h"
 
-int main(void)
-{
-
-}

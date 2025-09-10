@@ -101,7 +101,12 @@ void eliminar_alumno(alumno_t *base, size_t *sz)
             printf("Legajo encontrado, eliminando datos\n");
             free(base[i].nombre);
             free(base[i].apellido);
-            base[i].legajo = 0;
+
+            for (size_t j = i; j < (*sz - 1); j++) {
+                base[j] = base[j + 1];
+            }
+
+            (*sz)--;
             return;
         }
     }

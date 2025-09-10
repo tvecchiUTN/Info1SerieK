@@ -6,6 +6,7 @@
 #include "nombre.h"
 
 #define MAX_NOMBRE 100
+#define LARGO_SOPORTADO 80
 
 void ingreso_nombre(alumno_t *base, size_t item)
 {
@@ -20,18 +21,10 @@ void ingreso_nombre(alumno_t *base, size_t item)
 
         corregir_nombre(nombreNOCorregido, nombreCorregido);
 
-        if(buscar_nombre(base, item, nombreCorregido, 0))
+        if(strlen(nombreCorregido) >= LARGO_SOPORTADO)
         {
-            printf("Nombre repetido, ");
-            printf("¿Desea seguir?\n");
-            scanf("%d", &opcionRepetir);
-            while(getchar() != '\n'){};
-            if(opcionRepetir)
-            {
-                break;
-            }else{
-                continue;
-            }
+            printf("NOmbre muy largo, ingrese de nuevo\n");
+            continue;
         }
         break;
     }
@@ -45,16 +38,17 @@ void ingreso_nombre(alumno_t *base, size_t item)
 
         corregir_nombre(apellidoNOCorregido, apellidoCorregido);
 
-        if(buscar_nombre(base, item, apellidoCorregido, 1))
+        if(buscar_nombre(base, item, nombreCorregido, apellidoCorregido))
         {
-            printf("Apellido repetido, ");
+            printf("Ya existe alguien con ese nombre, ");
             printf("¿Desea seguir?\n");
             scanf("%d", &opcionRepetir);
             while(getchar() != '\n'){};
             if(opcionRepetir)
             {
                 break;
-            }else{
+            }else
+            {
                 continue;
             }
         }
@@ -100,27 +94,13 @@ int buscar_legajo(const alumno_t *base, size_t sz, uint32_t legBuscar)
 
 #define NOMBRE 0
 #define APELLIDO 1
-//En opcion, poner 0 para buscar nombre, 1 para apellido
-int buscar_nombre(const alumno_t *base, size_t sz, char* str, int opcion)
+int buscar_nombre(const alumno_t *base, size_t sz, char* strNombre, char* strApellido)
 {
-    if(opcion == NOMBRE)
+    for(int i = 0; i < sz; i++)
     {
-        for(int i = 0; i < sz; i++)
+        if((!strcmp(strNombre, base[i].nombre)) && (!strcmp(strApellido, base[i].apellido)))
         {
-            if(!strcmp(str, base[i].nombre))
-            {
-                return ENCONTRADO;
-            }
-        }
-        
-    }else if(opcion == APELLIDO)
-    {
-        for(int i = 0; i < sz; i++)
-        {
-            if(!strcmp(str, base[i].apellido))
-            {
-                return ENCONTRADO;
-            }
+            return ENCONTRADO;
         }
     }
 

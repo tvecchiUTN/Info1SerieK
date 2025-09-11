@@ -6,6 +6,8 @@
 #include "utils.h"
 #include "nombre.h"
 
+void reordenar(alumno_t *base, size_t *sz, size_t item);
+
 //Ingreso de datos
 void ingreso_alumno(alumno_t *base, size_t *sz)
 {
@@ -32,7 +34,7 @@ void ingreso_alumno(alumno_t *base, size_t *sz)
     ingreso_nombre(base, *sz);    
 
     base[*sz].legajo = nLegajo;
-    *sz = *sz + 1; 
+    (*sz)++; 
 }
 
 //Modificacion de datos de alumno
@@ -61,30 +63,49 @@ void modificar_alumno(alumno_t *base, size_t *sz)
 }
 
 //Consultar datos de alumno
-void consultar_alumno(const alumno_t *base, size_t *sz)
+void consultar_alumno(const alumno_t *base, size_t sz)
 {
-    uint32_t nLegajo = 0;
-    printf("Ingrese el numero de legajo: ");
-    scanf("%u", &nLegajo);
+    printf("¿Desea consultar sobre uno solo o muchos? \n");
+    printf("Poner 0 es para todos. ");
+    int opcionCuantos = 0;
+    scanf("%d", &opcionCuantos);
 
-    for(int i = 0; i < (*sz); i++)
+    printf("\n");
+    if(opcionCuantos)
     {
-        if((nLegajo == (base[i].legajo)) && (nLegajo > 0))
+        uint32_t nLegajo = 0;
+        printf("Ingrese el numero de legajo: ");
+        scanf("%u", &nLegajo);
+
+        for(int i = 0; i < (sz); i++)
         {
-            printf("Legajo encontrado\n");
-            
-            printf("Nombre: ");
-            printf("%s\n", base[i].nombre);
+            if((nLegajo == (base[i].legajo)) && (nLegajo > 0))
+            {
+                printf("Legajo encontrado\n");
+                
+                printf("Nombre: ");
+                printf("%s\n", base[i].nombre);
 
-            printf("Apellido: ");
-            printf("%s\n", base[i].apellido);
+                printf("Apellido: ");
+                printf("%s\n", base[i].apellido);
 
-            printf("\n");
-            return;
+                printf("\n");
+                return;
+            }
         }
+        printf("Legajo no encontrado\n");
+    }else
+    {
+        printf("----------------------------------------------------------------------------------------------------------\n");
+        printf("  Legajos | Nombre del alumno | Apellido del alumno \n");
+        for(int i = 0; i < (sz); i++)
+        {
+            
+            printf(" %8d | %17s | %19s \n", base[i].legajo, base[i].nombre, base[i].apellido);
+        }
+        printf("----------------------------------------------------------------------------------------------------------\n");
+        return;
     }
-
-    printf("Legajo no encontrado\n");
 }
 
 //Eliminacion de datos de alumno
@@ -98,18 +119,26 @@ void eliminar_alumno(alumno_t *base, size_t *sz)
     {
         if((nLegajo == (base[i].legajo)) && (nLegajo > 0))
         {
-            printf("Legajo encontrado, eliminando datos\n");
+            printf("Legajo encontrado\n");
+            printf("Eliminando datos de %s %s\n", base[i].nombre, base[i].apellido);
             free(base[i].nombre);
             free(base[i].apellido);
+            
+            reordenar(base, sz, i);
 
-            for (size_t j = i; j < (*sz - 1); j++) {
-                base[j] = base[j + 1];
-            }
-
-            (*sz)--;
             return;
         }
     }
 
     printf("Legajo no encontrado\n");
+}
+
+void reordenar(alumno_t *base, size_t *sz, size_t item)
+{
+    for (size_t j = item; j < (*sz - 1); j++) 
+    {
+        base[j] = base[j + 1];
+    }
+
+    (*sz)--;
 }

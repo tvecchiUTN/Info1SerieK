@@ -1,0 +1,37 @@
+1
+10
+624546
+Tales
+de Mileto
+570510
+Pitagoras
+de Samos
+287212
+Arquimedes
+de Siracusa
+200300
+Heron
+de Heiandria
+16071665
+Pierre 
+de Fermat
+15961650
+Rene 
+Descartes
+16431727
+Isaac 
+Newton
+17811848
+Bernard 
+Bolzano
+17891857
+Augustin Louis
+Cauchy
+18151897
+Karl
+Weierstrass
+3
+0
+4
+200300
+5

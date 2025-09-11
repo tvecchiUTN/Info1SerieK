@@ -17,7 +17,7 @@ int main(void)
 
     size_t szBase = 0;
     size_t capacidad = 1;
-    baseDatos = (alumno_t *)malloc(capacidad * sizeof(alumno_t));
+    baseDatos = (alumno_t *)malloc(capacidad * sizeof(alumno_t)); //Inicializo con uno
     if(baseDatos == NULL)
     {
         printf("Error de memoria\n");
@@ -39,18 +39,23 @@ int main(void)
         switch(opcion)
         {
             case INGRESAR:
-            if (szBase == capacidad) 
-            {
-                capacidad++;
-                alumno_t *temp = realloc(baseDatos, capacidad * sizeof(alumno_t));
-                if (temp == NULL) {
-                    printf("Error de memoria");
-                    return 1;
-                } else {
-                    baseDatos = temp;
+                int cdadIngreso = 1;
+                int flagIngreso = 1;
+                while(cdadIngreso > 0)
+                {
+                    if(flagIngreso)
+                    {
+                        printf("¿Cuantos datos desea ingresar? ");
+                        scanf("%d", &cdadIngreso);
+                        capacidad += cdadIngreso;
+                        baseDatos = (alumno_t*)realloc(baseDatos, capacidad * sizeof(alumno_t));
+                        flagIngreso = 0;
+                    }
+
+                    ingreso_alumno(baseDatos, &szBase);
+                    cdadIngreso--;
                 }
-            }
-                ingreso_alumno(baseDatos, &szBase);
+                
             break;
             
             case MODIFICAR:
@@ -58,22 +63,11 @@ int main(void)
             break;
             
             case CONSULTAR:
-                consultar_alumno(baseDatos, &szBase);
+                consultar_alumno(baseDatos, szBase);
             break;
 
             case ELIMINAR:
             eliminar_alumno(baseDatos, &szBase);
-            if ((capacidad - szBase) > 20) 
-            {
-                alumno_t *temp = NULL;
-                temp = realloc(baseDatos, szBase * sizeof(alumno_t));
-                
-                if ((temp != NULL) || (szBase == 0)) 
-                {
-                    baseDatos = temp;
-                    capacidad = szBase;
-                }
-            }
             break;
 
             case SALIR:

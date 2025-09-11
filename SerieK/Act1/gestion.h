@@ -13,7 +13,7 @@ void ingreso_alumno(alumno_t *base, size_t *sz);
 
 void modificar_alumno(alumno_t *base, size_t *sz);
 
-void consultar_alumno(const alumno_t *base, size_t *sz);
+void consultar_alumno(const alumno_t *base, size_t sz);
 
 void eliminar_alumno(alumno_t *base, size_t *sz);
 

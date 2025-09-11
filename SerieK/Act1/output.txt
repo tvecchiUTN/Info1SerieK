@@ -1,0 +1,38 @@
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: ¿Cuantos datos desea ingresar? Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: ¿Desea consultar sobre uno solo o muchos? 
+Poner 0 es para todos. 
+----------------------------------------------------------------------------------------------------------
+  Legajos | Nombre del alumno | Apellido del alumno 
+   624546 |             Tales |           de Mileto 
+   570510 |         Pitagoras |            de Samos 
+   287212 |        Arquimedes |         de Siracusa 
+   200300 |             Heron |        de Heiandria 
+ 16071665 |           Pierre  |           de Fermat 
+ 15961650 |             Rene  |           Descartes 
+ 16431727 |            Isaac  |              Newton 
+ 17811848 |          Bernard  |             Bolzano 
+ 17891857 |    Augustin Louis |              Cauchy 
+ 18151897 |              Karl |         Weierstrass 
+----------------------------------------------------------------------------------------------------------
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Heron de Heiandria
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Saliendo...

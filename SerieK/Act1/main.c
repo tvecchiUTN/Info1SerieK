@@ -67,7 +67,17 @@ int main(void)
             break;
 
             case ELIMINAR:
-            eliminar_alumno(baseDatos, &szBase);
+                eliminar_alumno(baseDatos, &szBase);
+                if((capacidad - szBase) > 20)
+                {
+                    capacidad = szBase;
+                    baseDatos = (alumno_t*)realloc(baseDatos, szBase * sizeof(alumno_t));
+                    if(baseDatos == NULL)
+                    {
+                        printf("Error al solicitar memoria;");
+                        return 1;
+                    }
+                }
             break;
 
             case SALIR:

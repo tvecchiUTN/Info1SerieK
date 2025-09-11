@@ -35,4 +35,38 @@ Eliminando datos de Heron de Heiandria
 3- Consultar datos de alumno.
 4- Eliminar datos de alumno.
 5- Salir.
+Ingrese una opcion: ¿Cuantos datos desea ingresar? Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: ¿Desea consultar sobre uno solo o muchos? 
+Poner 0 es para todos. 
+----------------------------------------------------------------------------------------------------------
+  Legajos | Nombre del alumno | Apellido del alumno 
+   624546 |             Tales |           de Mileto 
+   570510 |         Pitagoras |            de Samos 
+   287212 |        Arquimedes |         de Siracusa 
+ 16071665 |           Pierre  |           de Fermat 
+ 15961650 |             Rene  |           Descartes 
+ 16431727 |            Isaac  |              Newton 
+ 17811848 |          Bernard  |             Bolzano 
+ 17891857 |    Augustin Louis |              Cauchy 
+ 18151897 |              Karl |         Weierstrass 
+   624545 |             Tales |            de Milto 
+   570514 |         Pitagoras |             de Saos 
+   287222 |        Arquemedes |         de Siracusa 
+   200370 |             Heron |        de Htiandria 
+ 16070665 |            Piere  |           de Fermat 
+ 15911650 |              Ren  |           Descartes 
+ 16331727 |             Isac  |              Newton 
+ 16811848 |           Brnard  |             Bolzano 
+ 17591857 |      Austin Louis |              Cauchy 
+  1851897 |              Karl |          Weierstras 
+----------------------------------------------------------------------------------------------------------
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
 Ingrese una opcion: Saliendo...

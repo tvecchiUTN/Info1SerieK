@@ -34,4 +34,38 @@ Weierstrass
 0
 4
 200300
+1
+10
+624545
+Tales
+de Milto
+570514
+Pitagoras
+de Saos
+287222
+Arquemedes
+de Siracusa
+200370
+Heron
+de Htiandria
+16070665
+Piere 
+de Fermat
+15911650
+Ren 
+Descartes
+16331727
+Isac 
+Newton
+16811848
+Brnard 
+Bolzano
+17591857
+Austin Louis
+Cauchy
+1851897
+Karl
+Weierstras
+3
+0
 5

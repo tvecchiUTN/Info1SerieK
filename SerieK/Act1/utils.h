@@ -5,6 +5,8 @@ void eliminar_espacios(const char *src, char *dts);
 
 void eliminar_salto(char *str);
 
+void capitalizar(char *str);
+
 void corregir_nombre(const char *src, char *dts);
 
 #endif

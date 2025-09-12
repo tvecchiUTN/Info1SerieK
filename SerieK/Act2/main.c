@@ -39,26 +39,13 @@ int main(void)
         switch(opcion)
         {
             case INGRESAR:
-                int cdadIngreso = 1;
-                int flagIngreso = 1;
-                while(cdadIngreso > 0)
+                ingreso_alumno(baseDatos, &szBase);
+                capacidad++;
+                baseDatos = (alumno_t*)realloc(baseDatos, capacidad * sizeof(alumno_t));
+                if(baseDatos == NULL)
                 {
-                    if(flagIngreso)
-                    {
-                        printf("¿Cuantos datos desea ingresar? ");
-                        scanf("%d", &cdadIngreso);
-                        capacidad += cdadIngreso;
-                        baseDatos = (alumno_t*)realloc(baseDatos, capacidad * sizeof(alumno_t));
-                        if(baseDatos == NULL)
-                        {
-                            printf("Error al solicitar memoria\n");
-                            opcion = SALIR;
-                        }
-                        flagIngreso = 0;
-                    }
-
-                    ingreso_alumno(baseDatos, &szBase);
-                    cdadIngreso--;
+                    printf("Error al solicitar memoria;");
+                    //opcion = SALIR;
                 }
                 
             break;
@@ -79,8 +66,8 @@ int main(void)
                     baseDatos = (alumno_t*)realloc(baseDatos, szBase * sizeof(alumno_t));
                     if(baseDatos == NULL)
                     {
-                        printf("Error al solicitar memoria;");
-                        opcion = SALIR;
+                        printf("Error al solicitar memoria\n");
+                        //opcion = SALIR;
                     }
                 }
             break;

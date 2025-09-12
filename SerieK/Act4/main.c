@@ -11,6 +11,8 @@ void eliminar_todo(alumno_t *base, size_t sz);
 #define ELIMINAR 4
 #define SALIR 5
 
+#define QTTY_MEMO_ALLOC 10
+
 int main(void)
 {
     alumno_t *baseDatos = NULL;
@@ -39,26 +41,19 @@ int main(void)
         switch(opcion)
         {
             case INGRESAR:
-                int cdadIngreso = 1;
-                int flagIngreso = 1;
-                while(cdadIngreso > 0)
+                if(capacidad == szBase)
                 {
-                    if(flagIngreso)
-                    {
-                        printf("¿Cuantos datos desea ingresar? ");
-                        scanf("%d", &cdadIngreso);
-                        capacidad += cdadIngreso;
-                        baseDatos = (alumno_t*)realloc(baseDatos, capacidad * sizeof(alumno_t));
-                        if(baseDatos == NULL)
-                        {
-                            printf("Error al solicitar memoria\n");
-                            opcion = SALIR;
-                        }
-                        flagIngreso = 0;
-                    }
-
+                    capacidad += QTTY_MEMO_ALLOC;
+                    baseDatos = (alumno_t*)realloc(baseDatos, capacidad * sizeof(alumno_t));
+                }
+                if(baseDatos == NULL)
+                {
+                    printf("Error al solicitar memoria;");
+                    //opcion = SALIR;
+                }
+                else
+                {
                     ingreso_alumno(baseDatos, &szBase);
-                    cdadIngreso--;
                 }
                 
             break;
@@ -79,8 +74,8 @@ int main(void)
                     baseDatos = (alumno_t*)realloc(baseDatos, szBase * sizeof(alumno_t));
                     if(baseDatos == NULL)
                     {
-                        printf("Error al solicitar memoria;");
-                        opcion = SALIR;
+                        printf("Error al solicitar memoria\n");
+                        //opcion = SALIR;
                     }
                 }
             break;

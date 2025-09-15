@@ -153,6 +153,7 @@ void gestion_eliminacion_nombre(alumno_t *base, size_t *sz)
                     free(base[i].apellido);
 
                     reordenar(base, sz, i);
+                    i--;
                 }
             }
         }
@@ -227,6 +228,7 @@ void gestion_eliminacion_apellido(alumno_t *base, size_t *sz)
                     free(base[i].apellido);
 
                     reordenar(base, sz, i);
+                    i--;
                 }
             }
         }
@@ -306,6 +308,7 @@ void gestion_eliminacion_ambos(alumno_t *base, size_t *sz)
                     free(base[i].apellido);
 
                     reordenar(base, sz, i);
+                    i--;
                 }
             }
         }

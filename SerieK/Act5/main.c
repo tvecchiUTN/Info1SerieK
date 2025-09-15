@@ -50,7 +50,7 @@ int main(void)
                 if(baseDatos == NULL)
                 {
                     printf("Error al solicitar memoria");
-                    eliminar_todo(baseDatos, szBase);
+
                     //opcion = SALIR;
                 }
                 else
@@ -78,8 +78,6 @@ int main(void)
                     {
                         printf("Error al solicitar memoria\n");
                         //opcion = SALIR;
-                        
-                        eliminar_todo(baseDatos, szBase);
                     }
                 }
             break;

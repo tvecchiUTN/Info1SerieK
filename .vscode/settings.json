@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "gestion.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "ELIMINACION.C": "cpp"
     }
 }

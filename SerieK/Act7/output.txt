@@ -1,0 +1,2203 @@
+10485
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: ¿Desea consultar sobre uno solo o muchos? 
+Poner 0 es para todos. 
+----------------------------------------------------------------------------------------------------------
+  Legajos | Nombre del alumno | Apellido del alumno 
+  8022308 |         Valentina |          Rodríguez 
+  2575910 |             Paula |                Ruiz 
+  5090983 |           Ricardo |              Moreno 
+    25183 |           Ricardo |             Delgado 
+  9946376 |               Ana |            Guerrero 
+  7259542 |             Marta |             Suárez 
+  3911594 |          Nicolás |                Cruz 
+  7585484 |           Daniela |              Gómez 
+  3045244 |           Andrés |           González 
+  1970549 |             Paula |             Herrera 
+  6576513 |            Lucía |            Guerrero 
+  3217687 |             Elena |              Blanco 
+  6062296 |             José |                Ruiz 
+  8640063 |            Noelia |               Ramos 
+  7407486 |           Gabriel |               Silva 
+  1684211 |             Laura |          Rodríguez 
+  8698073 |          Nicolás |               Reyes 
+  8895657 |            Ramiro |            Ramírez 
+  5949812 |           Martín |             Navarro 
+  5754809 |               Ana |             Aguilar 
+  4059982 |          Fernando |             Serrano 
+  1019172 |              Rosa |           González 
+  8629934 |              Luis |            Iglesias 
+  7902056 |           Daniela |             Suárez 
+  4716342 |          Agustina |              Gómez 
+  5068204 |             Pablo |                Ruiz 
+  6221280 |             Paula |              Vargas 
+  9146673 |             Oscar |                Ruiz 
+    29841 |           Esteban |            Jiménez 
+  5053989 |          Agustín |              Pérez 
+  6238522 |               Ana |          Domínguez 
+  8761043 |           Esteban |              Castro 
+  7215041 |           Daniela |              Romero 
+   804734 |           Gustavo |             Suárez 
+  8457850 |           Andrés |              Alonso 
+  5753982 |           Daniela |           González 
+  3290831 |            Carlos |              Molina 
+  5704026 |               Ana |              Santos 
+  6084000 |             Marta |               Silva 
+   760646 |           Julieta |            Jiménez 
+  9956681 |             Laura |              Romero 
+  6116018 |               Ana |              López 
+  1477575 |           Alberto |               Ramos 
+  5390520 |          Patricia |                Ruiz 
+  1447631 |           Daniela |              Medina 
+   294095 |             Diego |               Reyes 
+  9623634 |            María |              Gómez 
+  8768341 |             Pablo |              Blanco 
+  1702979 |            Camila |              López 
+   986759 |            Lorena |              Moreno 
+  5709355 |            Lorena |             Suárez 
+  7901188 |              Luis |                Ruiz 
+  2274127 |             Pablo |          Fernández 
+  8990067 |           Daniela |            Jiménez 
+  8652911 |           Ricardo |               Díaz 
+   843240 |           Gustavo |              Molina 
+  4309052 |             Elena |          Fernández 
+  7365847 |            Camila |               Silva 
+  1988679 |             Paula |            Jiménez 
+  6757054 |         Valentina |              Pérez 
+  6238100 |             Paula |           Martínez 
+  6074826 |           Gabriel |               Díaz 
+  5495646 |           Alberto |               Díaz 
+  7309041 |               Ana |          Fernández 
+  8421176 |           Alberto |               Ortiz 
+  9726578 |             Pablo |              Torres 
+  2422251 |           Julieta |              Gómez 
+  9572825 |           Martín |              Blanco 
+  9932461 |          Nicolás |              Torres 
+  7439082 |               Ana |             Navarro 
+  6127175 |           Julieta |              Santos 
+  3146805 |           Gustavo |              Torres 
+   528284 |           Alberto |             Delgado 
+  3246281 |             Elena |              Gómez 
+  8528415 |          Agustín |            Iglesias 
+  5275297 |          Joaquín |               Silva 
+  2642436 |             Laura |              Molina 
+  3086471 |             Pedro |             Cabrera 
+  6860206 |          Victoria |              Vargas 
+  9810050 |           Ricardo |              Torres 
+  5044627 |            Carlos |            Iglesias 
+  5844346 |            Sofía |              Moreno 
+  5977292 |            María |               Silva 
+  9444787 |          Milagros |              López 
+  1200925 |             Mateo |                Cruz 
+  6799716 |           Julieta |              Molina 
+  7474132 |              Luis |           González 
+  7865315 |        Sebastián |              Moreno 
+  7453367 |            Lorena |               Reyes 
+  3383181 |             Laura |            Guerrero 
+  9403269 |           Gustavo |          Domínguez 
+  5147968 |             Laura |             Cabrera 
+  5774164 |            Carlos |             Cabrera 
+  3906835 |             Pablo |            Álvarez 
+  2550040 |            Lucía |             Herrera 
+  8771235 |             Elena |             Aguilar 
+  1083065 |            Lucía |              López 
+  5499501 |           Gustavo |               Silva 
+  5498170 |            Camila |             Herrera 
+  4960279 |          Fernando |              Santos 
+----------------------------------------------------------------------------------------------------------
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Lorena Reyes
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ana Santos
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Gabriel Díaz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Nicolás Reyes
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Elena Fernández
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Martín Blanco
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Laura Rodríguez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Carlos Iglesias
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Paula Herrera
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Fernando Serrano
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Esteban Castro
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ricardo Moreno
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ana Domínguez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Carlos Cabrera
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Elena Gómez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Julieta Molina
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Julieta Jiménez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Gustavo Molina
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Agustín Iglesias
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Oscar Ruiz
+DEBUG, Se redujo el vector
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: ¿Desea consultar sobre uno solo o muchos? 
+Poner 0 es para todos. 
+----------------------------------------------------------------------------------------------------------
+  Legajos | Nombre del alumno | Apellido del alumno 
+  8022308 |         Valentina |          Rodríguez 
+  2575910 |             Paula |                Ruiz 
+    25183 |           Ricardo |             Delgado 
+  9946376 |               Ana |            Guerrero 
+  7259542 |             Marta |             Suárez 
+  3911594 |          Nicolás |                Cruz 
+  7585484 |           Daniela |              Gómez 
+  3045244 |           Andrés |           González 
+  6576513 |            Lucía |            Guerrero 
+  3217687 |             Elena |              Blanco 
+  6062296 |             José |                Ruiz 
+  8640063 |            Noelia |               Ramos 
+  7407486 |           Gabriel |               Silva 
+  8895657 |            Ramiro |            Ramírez 
+  5949812 |           Martín |             Navarro 
+  5754809 |               Ana |             Aguilar 
+  1019172 |              Rosa |           González 
+  8629934 |              Luis |            Iglesias 
+  7902056 |           Daniela |             Suárez 
+  4716342 |          Agustina |              Gómez 
+  5068204 |             Pablo |                Ruiz 
+  6221280 |             Paula |              Vargas 
+    29841 |           Esteban |            Jiménez 
+  5053989 |          Agustín |              Pérez 
+  7215041 |           Daniela |              Romero 
+   804734 |           Gustavo |             Suárez 
+  8457850 |           Andrés |              Alonso 
+  5753982 |           Daniela |           González 
+  3290831 |            Carlos |              Molina 
+  6084000 |             Marta |               Silva 
+  9956681 |             Laura |              Romero 
+  6116018 |               Ana |              López 
+  1477575 |           Alberto |               Ramos 
+  5390520 |          Patricia |                Ruiz 
+  1447631 |           Daniela |              Medina 
+   294095 |             Diego |               Reyes 
+  9623634 |            María |              Gómez 
+  8768341 |             Pablo |              Blanco 
+  1702979 |            Camila |              López 
+   986759 |            Lorena |              Moreno 
+  5709355 |            Lorena |             Suárez 
+  7901188 |              Luis |                Ruiz 
+  2274127 |             Pablo |          Fernández 
+  8990067 |           Daniela |            Jiménez 
+  8652911 |           Ricardo |               Díaz 
+  7365847 |            Camila |               Silva 
+  1988679 |             Paula |            Jiménez 
+  6757054 |         Valentina |              Pérez 
+  6238100 |             Paula |           Martínez 
+  5495646 |           Alberto |               Díaz 
+  7309041 |               Ana |          Fernández 
+  8421176 |           Alberto |               Ortiz 
+  9726578 |             Pablo |              Torres 
+  2422251 |           Julieta |              Gómez 
+  9932461 |          Nicolás |              Torres 
+  7439082 |               Ana |             Navarro 
+  6127175 |           Julieta |              Santos 
+  3146805 |           Gustavo |              Torres 
+   528284 |           Alberto |             Delgado 
+  5275297 |          Joaquín |               Silva 
+  2642436 |             Laura |              Molina 
+  3086471 |             Pedro |             Cabrera 
+  6860206 |          Victoria |              Vargas 
+  9810050 |           Ricardo |              Torres 
+  5844346 |            Sofía |              Moreno 
+  5977292 |            María |               Silva 
+  9444787 |          Milagros |              López 
+  1200925 |             Mateo |                Cruz 
+  7474132 |              Luis |           González 
+  7865315 |        Sebastián |              Moreno 
+  3383181 |             Laura |            Guerrero 
+  9403269 |           Gustavo |          Domínguez 
+  5147968 |             Laura |             Cabrera 
+  3906835 |             Pablo |            Álvarez 
+  2550040 |            Lucía |             Herrera 
+  8771235 |             Elena |             Aguilar 
+  1083065 |            Lucía |              López 
+  5499501 |           Gustavo |               Silva 
+  5498170 |            Camila |             Herrera 
+  4960279 |          Fernando |              Santos 
+----------------------------------------------------------------------------------------------------------
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: DEBUG, Se agrando el vector
+Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Ingrese el numero de legajo: Ingrese nombre del alumno: Ingrese apellido del alumno: 1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: ¿Desea consultar sobre uno solo o muchos? 
+Poner 0 es para todos. 
+----------------------------------------------------------------------------------------------------------
+  Legajos | Nombre del alumno | Apellido del alumno 
+  8022308 |         Valentina |          Rodríguez 
+  2575910 |             Paula |                Ruiz 
+    25183 |           Ricardo |             Delgado 
+  9946376 |               Ana |            Guerrero 
+  7259542 |             Marta |             Suárez 
+  3911594 |          Nicolás |                Cruz 
+  7585484 |           Daniela |              Gómez 
+  3045244 |           Andrés |           González 
+  6576513 |            Lucía |            Guerrero 
+  3217687 |             Elena |              Blanco 
+  6062296 |             José |                Ruiz 
+  8640063 |            Noelia |               Ramos 
+  7407486 |           Gabriel |               Silva 
+  8895657 |            Ramiro |            Ramírez 
+  5949812 |           Martín |             Navarro 
+  5754809 |               Ana |             Aguilar 
+  1019172 |              Rosa |           González 
+  8629934 |              Luis |            Iglesias 
+  7902056 |           Daniela |             Suárez 
+  4716342 |          Agustina |              Gómez 
+  5068204 |             Pablo |                Ruiz 
+  6221280 |             Paula |              Vargas 
+    29841 |           Esteban |            Jiménez 
+  5053989 |          Agustín |              Pérez 
+  7215041 |           Daniela |              Romero 
+   804734 |           Gustavo |             Suárez 
+  8457850 |           Andrés |              Alonso 
+  5753982 |           Daniela |           González 
+  3290831 |            Carlos |              Molina 
+  6084000 |             Marta |               Silva 
+  9956681 |             Laura |              Romero 
+  6116018 |               Ana |              López 
+  1477575 |           Alberto |               Ramos 
+  5390520 |          Patricia |                Ruiz 
+  1447631 |           Daniela |              Medina 
+   294095 |             Diego |               Reyes 
+  9623634 |            María |              Gómez 
+  8768341 |             Pablo |              Blanco 
+  1702979 |            Camila |              López 
+   986759 |            Lorena |              Moreno 
+  5709355 |            Lorena |             Suárez 
+  7901188 |              Luis |                Ruiz 
+  2274127 |             Pablo |          Fernández 
+  8990067 |           Daniela |            Jiménez 
+  8652911 |           Ricardo |               Díaz 
+  7365847 |            Camila |               Silva 
+  1988679 |             Paula |            Jiménez 
+  6757054 |         Valentina |              Pérez 
+  6238100 |             Paula |           Martínez 
+  5495646 |           Alberto |               Díaz 
+  7309041 |               Ana |          Fernández 
+  8421176 |           Alberto |               Ortiz 
+  9726578 |             Pablo |              Torres 
+  2422251 |           Julieta |              Gómez 
+  9932461 |          Nicolás |              Torres 
+  7439082 |               Ana |             Navarro 
+  6127175 |           Julieta |              Santos 
+  3146805 |           Gustavo |              Torres 
+   528284 |           Alberto |             Delgado 
+  5275297 |          Joaquín |               Silva 
+  2642436 |             Laura |              Molina 
+  3086471 |             Pedro |             Cabrera 
+  6860206 |          Victoria |              Vargas 
+  9810050 |           Ricardo |              Torres 
+  5844346 |            Sofía |              Moreno 
+  5977292 |            María |               Silva 
+  9444787 |          Milagros |              López 
+  1200925 |             Mateo |                Cruz 
+  7474132 |              Luis |           González 
+  7865315 |        Sebastián |              Moreno 
+  3383181 |             Laura |            Guerrero 
+  9403269 |           Gustavo |          Domínguez 
+  5147968 |             Laura |             Cabrera 
+  3906835 |             Pablo |            Álvarez 
+  2550040 |            Lucía |             Herrera 
+  8771235 |             Elena |             Aguilar 
+  1083065 |            Lucía |              López 
+  5499501 |           Gustavo |               Silva 
+  5498170 |            Camila |             Herrera 
+  4960279 |          Fernando |              Santos 
+  6651668 |        Sebastián |               Ortiz 
+   483304 |             Pedro |              Molina 
+   350268 |             Pedro |              Castro 
+  7405787 |             Laura |               Silva 
+  8254020 |              Luis |              Castro 
+  9190525 |          Joaquín |             Cabrera 
+  7958719 |            Noelia |                Cruz 
+  7414429 |         Valentina |              Molina 
+  7770912 |            Carlos |              Pérez 
+  3092424 |          Victoria |              Torres 
+----------------------------------------------------------------------------------------------------------
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Valentina Rodríguez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Paula Ruiz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ricardo Delgado
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ana Guerrero
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Marta Suárez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Nicolás Cruz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Daniela Gómez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Andrés González
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Lucía Guerrero
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Elena Blanco
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de José Ruiz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Noelia Ramos
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Gabriel Silva
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ramiro Ramírez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Martín Navarro
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ana Aguilar
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Rosa González
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Luis Iglesias
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Daniela Suárez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Agustina Gómez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Pablo Ruiz
+DEBUG, Se redujo el vector
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Paula Vargas
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Esteban Jiménez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Agustín Pérez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Daniela Romero
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Gustavo Suárez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Andrés Alonso
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Daniela González
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Carlos Molina
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Marta Silva
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Laura Romero
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ana López
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Alberto Ramos
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Patricia Ruiz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Daniela Medina
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Diego Reyes
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de María Gómez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Pablo Blanco
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Camila López
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Lorena Moreno
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Lorena Suárez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Luis Ruiz
+DEBUG, Se redujo el vector
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Pablo Fernández
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Daniela Jiménez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ricardo Díaz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Camila Silva
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Paula Jiménez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Valentina Pérez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Paula Martínez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Alberto Díaz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ana Fernández
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Alberto Ortiz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Pablo Torres
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Julieta Gómez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Nicolás Torres
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ana Navarro
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Julieta Santos
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Gustavo Torres
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Alberto Delgado
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Joaquín Silva
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Laura Molina
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Pedro Cabrera
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Victoria Vargas
+DEBUG, Se redujo el vector
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Ricardo Torres
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Sofía Moreno
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de María Silva
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Milagros López
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Mateo Cruz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Luis González
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Sebastián Moreno
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Laura Guerrero
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Gustavo Domínguez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Laura Cabrera
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Pablo Álvarez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Lucía Herrera
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Elena Aguilar
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Lucía López
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Gustavo Silva
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Camila Herrera
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Fernando Santos
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Sebastián Ortiz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Pedro Molina
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Pedro Castro
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Laura Silva
+DEBUG, Se redujo el vector
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Luis Castro
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Joaquín Cabrera
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Noelia Cruz
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Valentina Molina
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Carlos Pérez
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Introduzca una opcion para eliminar
+0- Eliminar por nombre
+1- Eliminar por apellido
+2- Eliminar por nombre y apellido
+3- Eliminar por legajo
+Ingrese el numero de legajo: Legajo encontrado
+Eliminando datos de Victoria Torres
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: ¿Desea consultar sobre uno solo o muchos? 
+Poner 0 es para todos. 
+----------------------------------------------------------------------------------------------------------
+  Legajos | Nombre del alumno | Apellido del alumno 
+----------------------------------------------------------------------------------------------------------
+1- Ingresar datos de alumno.
+2- Modificar datos de alumno.
+3- Consultar datos de alumno.
+4- Eliminar datos de alumno.
+5- Salir.
+Ingrese una opcion: Saliendo...

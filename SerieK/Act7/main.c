@@ -1,10 +1,13 @@
 #include <sys/types.h>
 #include <unistd.h>
+#include <signal.h>
 
 #include <stdio.h>
 #include <stdlib.h>
 #include "gestion.h"
 #include "utils.h"
+
+void signal_emergency(int sig);
 
 void eliminar_todo(alumno_t *base, size_t sz);
 
@@ -14,13 +17,15 @@ void eliminar_todo(alumno_t *base, size_t sz);
 #define ELIMINAR 4
 #define SALIR 5
 
-#define QTTY_MEMO_ALLOC 10
+#define QTTY_MEMO_ALLOC 40 //Se cambio la cantidad a 40
+
+//Utilizo variables globales para poder manejarlas con las señales
+//Pero consultar si es posible
+static alumno_t *baseDatos = NULL;
+static size_t szBase = 0;
 
 int main_2(int argc, char **argv, char **env)
 {
-    alumno_t *baseDatos = NULL;
-
-    size_t szBase = 0;
     size_t capacidad = 1;
     baseDatos = (alumno_t *)malloc(capacidad * sizeof(alumno_t)); //Inicializo con uno
     if(baseDatos == NULL)
@@ -47,7 +52,7 @@ int main_2(int argc, char **argv, char **env)
             case INGRESAR:
                 if(capacidad == szBase)
                 {
-                    printf("DEBUG, Se agrando el vector\n");
+                    //printf("DEBUG, Se agrando el vector\n");
                     capacidad += QTTY_MEMO_ALLOC;
                     baseDatos = (alumno_t*)realloc(baseDatos, capacidad * sizeof(alumno_t));
                 }
@@ -78,7 +83,7 @@ int main_2(int argc, char **argv, char **env)
                 {
                     capacidad = szBase;
                     baseDatos = (alumno_t*)realloc(baseDatos, szBase * sizeof(alumno_t));
-                    printf("DEBUG, Se redujo el vector\n");
+                    //printf("DEBUG, Se redujo el vector\n");
                     if(baseDatos == NULL)
                     {
                         printf("Error al solicitar memoria\n");
@@ -102,14 +107,18 @@ int main_2(int argc, char **argv, char **env)
 
 int main(int argc, char **argv, char **env)
 {
-    printf("%d\n", getpid());
-    int limite = atoi(argv[1]);
-    int max = 0;
-    while(max < limite)
-    {
-        main_2(argc, argv, env);
-        max++;
-    }
+    signal(SIGINT, signal_emergency);
+    //printf("%d\n", getpid());
+
+    main_2(argc, argv, env);
+    
+}
+
+void signal_emergency(int sig)
+{
+    printf("Aplicacion finalizada\n");
+    eliminar_todo(baseDatos, szBase);
+    exit(0);
 }
 
 void eliminar_todo(alumno_t *base, size_t sz)

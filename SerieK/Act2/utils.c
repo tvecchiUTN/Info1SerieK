@@ -1,3 +1,7 @@
+//Guia K
+//Ejercicio 2
+//Tomas Gabriel Vecchi
+
 #include <stdio.h>
 #include "utils.h"
 

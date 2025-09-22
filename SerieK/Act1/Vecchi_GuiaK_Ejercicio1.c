@@ -1,3 +1,7 @@
+//Guia K
+//Ejercicio 1
+//Tomas Gabriel VECCHI
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "gestion.h"

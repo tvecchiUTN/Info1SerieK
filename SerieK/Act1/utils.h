@@ -1,3 +1,7 @@
+//Guia K
+//Ejercicio 1
+//Tomas Gabriel VECCHI
+
 #ifndef __UTILS_H
 #define __UTILS_H
 

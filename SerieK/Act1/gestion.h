@@ -1,3 +1,6 @@
+//Guia K
+//Ejercicio 1
+//Tomas Gabriel VECCHI
 #ifndef __GESTION_H
 #define __GESTION_H
 

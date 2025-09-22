@@ -1,3 +1,7 @@
+//Guia K
+//Ejercicio 1
+//Tomas Gabriel VECCHI
+
 #ifndef __NOMBRE_H
 #define __NOMBRE_H
 

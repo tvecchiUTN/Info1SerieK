@@ -8,37 +8,98 @@
 #define MAX_NOMBRE 100
 #define LARGO_SOPORTADO 80
 
+char *strWriter(void)
+{
+    int capacidad = 15;
+    char *word = (char*)malloc(capacidad * sizeof(char));
+    if(!word)
+    {
+        printf("Error de memoria\n");
+        return NULL;
+    }
+    
+    int i = 0;
+    while(1)
+    {
+        if(i >= capacidad)
+        {
+            capacidad *= 2;
+            char *temp = (char*)realloc(word, capacidad * sizeof(char));
+            if(!temp)
+            {
+                printf("Error al agranadar memoria\n");
+                free(word);
+                return NULL;
+            }
+            word = temp;
+        }
+        int c = getchar();
+        if(c == '\n')
+        {
+            break;
+        }
+        *(word+i) = (char)c;
+        i++;
+    }
+    *(word+i) = '\0';
+    
+    char *last_aux = (char*)realloc(word, (i+1) * sizeof(char));
+    if(!last_aux)
+    {
+
+        return word;
+    }
+
+    return last_aux;
+}
+
 void ingreso_nombre(alumno_t *base, size_t item)
 {
     int opcionRepetir = 0;
 
-    char nombreCorregido[MAX_NOMBRE];
-    char nombreNOCorregido[MAX_NOMBRE];
+    char *nombre_alumno;
     while(1)
     {
         printf("Ingrese nombre del alumno: ");
-        fgets(nombreNOCorregido, MAX_NOMBRE, stdin);
-
-        corregir_nombre(nombreNOCorregido, nombreCorregido);
-
-        if(strlen(nombreCorregido) >= LARGO_SOPORTADO)
+        nombre_alumno = strWriter();
+        if(!nombre_alumno)
         {
-            printf("NOmbre muy largo, ingrese de nuevo\n");
+            printf("Error al solicitar memoria para el nombre\n");
+            nombre_alumno = "Alumno sin nombre";
+        }
+
+        corregir_nombre(nombre_alumno);
+
+        if(strlen(nombre_alumno) >= LARGO_SOPORTADO)
+        {
+            printf("Nombre muy largo, ingrese de nuevo\n");
+            free(nombre_alumno);
             continue;
         }
         break;
     }
     
-    char apellidoCorregido[MAX_NOMBRE];
-    char apellidoNOCorregido[MAX_NOMBRE];
+    char *apellido_alumno;
     while(1)
     {
         printf("Ingrese apellido del alumno: ");
-        fgets(apellidoNOCorregido, MAX_NOMBRE, stdin);
+        apellido_alumno = strWriter();
+        if(!apellido_alumno)
+        {
+            printf("Error al solicitar memoria para el apellido\n");
+            apellido_alumno = "Alumno sin apellido";
+        }
 
-        corregir_nombre(apellidoNOCorregido, apellidoCorregido);
+        corregir_nombre(apellido_alumno);
 
-        if(buscar_nombre(base, item, nombreCorregido, apellidoCorregido))
+        if(strlen(apellido_alumno) >= LARGO_SOPORTADO)
+        {
+            printf("Nombre muy largo, ingrese de nuevo\n");
+            free(apellido_alumno);
+            continue;
+        }
+
+        if(buscar_nombre(base, item, nombre_alumno, apellido_alumno))
         {
             printf("Ya existe alguien con ese nombre, ");
             printf("¿Desea seguir?\n");
@@ -55,26 +116,10 @@ void ingreso_nombre(alumno_t *base, size_t item)
 
         break;
     }
-    
 
-    int szNombre = strlen(nombreCorregido) + 1;
-    int szApellido = strlen(apellidoCorregido) + 1;
+    base[item].nombre = nombre_alumno;
 
-    base[item].nombre = (char*)malloc(szNombre * sizeof(char));
-    if(base[item].nombre == NULL)
-    {
-        printf("Error de memoria");
-        return;
-    }
-    strcpy(base[item].nombre, nombreCorregido);
-
-    base[item].apellido = (char*)malloc(szApellido * sizeof(char));
-    if(base[item].apellido == NULL)
-    {
-        printf("Error de memoria");
-        return;
-    }
-    strcpy(base[item].apellido, apellidoCorregido);
+    base[item].apellido = apellido_alumno;
 }
 
 #define NO_ENCONTRADO 0

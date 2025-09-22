@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 #include "utils.h"
 
 void eliminar_salto(char *str)
@@ -61,9 +62,11 @@ void capitalizar(char *str)
 
 }
 
-void corregir_nombre(const char *src, char *dts)
+void corregir_nombre(char *dts)
 {
-    eliminar_espacios(src, dts);
+    char copia[80];
+    strcpy(copia, dts);
+    eliminar_espacios(copia, dts);
     eliminar_salto(dts);
     capitalizar(dts);
 }

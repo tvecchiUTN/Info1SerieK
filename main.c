@@ -1,30 +1,42 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-char *strWriter(int max);
+char *strWriter();
 
 int main(void)
 {
-    char *prueba = strWriter(80);
+    char *prueba = strWriter();
 
     printf("Palabra magica es: %s\n", prueba);
     free(prueba);
     return 0;
 }
 
-char *strWriter(int max)
+char *strWriter()
 {
     int capacidad = 15;
     char *word = (char*)malloc(capacidad * sizeof(char));
+    if(!word)
+    {
+        printf("Error de memoria\n");
+        return NULL;
+    }
     printf("Introduzca la palabra: ");
     
     int i = 0;
-    while(i < max)
+    while(1)
     {
         if(i >= capacidad)
         {
             capacidad *= 2;
-            word = (char*)realloc(word, capacidad * sizeof(char));
+            char *temp = (char*)realloc(word, capacidad * sizeof(char));
+            if(!temp)
+            {
+                printf("Error al agranadar memoria\n");
+                free(word);
+                return NULL;
+            }
+            word = temp;
         }
         int c = getchar();
         if(c == '\n')
@@ -35,8 +47,13 @@ char *strWriter(int max)
         i++;
     }
     *(word+i) = '\0';
-    word = (char*)realloc(word, (i+1) * sizeof(char));
+    
+    char *last_aux = (char*)realloc(word, (i+1) * sizeof(char));
+    if(!last_aux)
+    {
 
+        return word;
+    }
 
-    return word;
+    return last_aux;
 }

@@ -2,94 +2,102 @@
 #include <string.h>
 #include <stdlib.h>
 #include "gestion.h"
-#include "eliminacion.h"
+#include "eliminar.h"
 #include "utils.h"
+#include "nombre.h"
 
 #define NO_ENCONTRADO -1
 #define ENCONTRADO 0
 #define ENCONTRADO_MULTIPLE 1
 
-
-int eliminacion_por_nombre(const alumno_t *base, size_t sz, char* nombre)
+int eliminacion_por_nombre(const alumno_t *base, size_t sz, char *nombre)
 {
     int i;
     int cdad = 0;
 
-    for(i = 0; i < sz; i++)
+    for (i = 0; i < sz; i++)
     {
-        if(!strcmp(base[i].nombre, nombre))
+        if (!strcmp(base[i].nombre, nombre))
         {
             cdad++;
         }
     }
-    if(cdad == 0)
+    if (cdad == 0)
     {
         return NO_ENCONTRADO;
     }
-    else if(cdad == 1)
+    else if (cdad == 1)
     {
         return ENCONTRADO;
     }
-    else{
+    else
+    {
         return ENCONTRADO_MULTIPLE;
     }
 }
 
-int eliminacion_por_apellido(const alumno_t *base, size_t sz, char* apellido)
+int eliminacion_por_apellido(const alumno_t *base, size_t sz, char *apellido)
 {
     int i;
     int cdad = 0;
 
-    for(i = 0; i < sz; i++)
+    for (i = 0; i < sz; i++)
     {
-        if(!strcmp(base[i].apellido, apellido))
+        if (!strcmp(base[i].apellido, apellido))
         {
             cdad++;
         }
     }
-    if(cdad == 0)
+    if (cdad == 0)
     {
         return NO_ENCONTRADO;
     }
-    else if(cdad == 1)
+    else if (cdad == 1)
     {
         return ENCONTRADO;
     }
-    else{
+    else
+    {
         return ENCONTRADO_MULTIPLE;
     }
 }
 
-int eliminacion_por_ambos(const alumno_t *base, size_t sz, char* nombre, char* apellido)
+int eliminacion_por_ambos(const alumno_t *base, size_t sz, char *nombre, char *apellido)
 {
     int i;
     int cdad = 0;
 
-    for(i = 0; i < sz; i++)
+    for (i = 0; i < sz; i++)
     {
-        if(!strcmp(base[i].nombre, nombre) && !strcmp(base[i].apellido, apellido))
+        if (!strcmp(base[i].nombre, nombre) && !strcmp(base[i].apellido, apellido))
         {
             cdad++;
         }
     }
-    if(cdad == 0)
+    if (cdad == 0)
     {
         return NO_ENCONTRADO;
     }
-    else if(cdad == 1)
+    else if (cdad == 1)
     {
         return ENCONTRADO;
     }
-    else{
+    else
+    {
         return ENCONTRADO_MULTIPLE;
     }
 }
 
 void gestion_eliminacion_nombre(alumno_t *base, size_t *sz)
 {
-    char nombreAux[80];
+    char *nombreAux;
     printf("Ingrese el nombre: ");
-    fgets(nombreAux, 80, stdin);
+    nombreAux = strWriter();
+    if(!nombreAux)
+    {
+        printf("Error al soliciar memoria, la funcion no puede seguir\n");
+        return;
+    }
     corregir_nombre(nombreAux);
 
     int eliminacion = eliminacion_por_nombre(base, *sz, nombreAux);
@@ -121,7 +129,9 @@ void gestion_eliminacion_nombre(alumno_t *base, size_t *sz)
 
         int opcionMultiple = 0;
         scanf("%d", &opcionMultiple);
-        while(getchar() != '\n'){};
+        while (getchar() != '\n')
+        {
+        };
         if (!opcionMultiple)
         {
             uint32_t nLegajo = 0;
@@ -158,13 +168,20 @@ void gestion_eliminacion_nombre(alumno_t *base, size_t *sz)
             }
         }
     }
+
+    free(nombreAux);
 }
 
 void gestion_eliminacion_apellido(alumno_t *base, size_t *sz)
 {
-    char apellidoAux[80];
+    char *apellidoAux;
     printf("Ingrese el apellido: ");
-    fgets(apellidoAux, 80, stdin);
+    apellidoAux = strWriter();
+    if(!apellidoAux)
+    {
+        printf("Error al soliciar memoria, la funcion no puede seguir\n");
+        return;
+    }
     corregir_nombre(apellidoAux);
 
     int eliminacion = eliminacion_por_apellido(base, *sz, apellidoAux);
@@ -196,7 +213,9 @@ void gestion_eliminacion_apellido(alumno_t *base, size_t *sz)
 
         int opcionMultiple = 0;
         scanf("%d", &opcionMultiple);
-        while(getchar() != '\n'){};
+        while (getchar() != '\n')
+        {
+        };
         if (!opcionMultiple)
         {
             uint32_t nLegajo = 0;
@@ -213,7 +232,7 @@ void gestion_eliminacion_apellido(alumno_t *base, size_t *sz)
                     free(base[i].apellido);
 
                     reordenar(base, sz, i);
-                    
+
                     return;
                 }
             }
@@ -233,16 +252,28 @@ void gestion_eliminacion_apellido(alumno_t *base, size_t *sz)
             }
         }
     }
+    free(apellidoAux);
 }
 
 void gestion_eliminacion_ambos(alumno_t *base, size_t *sz)
 {
-    char nombreAux[80];
-    char apellidoAux[80];
+    char *nombreAux;
+    char *apellidoAux;
     printf("Introduzca el nombre: ");
-    fgets(nombreAux, 80, stdin);
+    nombreAux = strWriter();
     printf("Introduzca el apellido: ");
-    fgets(apellidoAux, 80, stdin);
+    apellidoAux = strWriter();
+
+    if(!nombreAux)
+    {
+        printf("Error al soliciar memoria, la funcion no puede seguir\n");
+        return;
+    }
+    if(!apellidoAux)
+    {
+        printf("Error al soliciar memoria, la funcion no puede seguir\n");
+        return;
+    }
 
     corregir_nombre(nombreAux);
     corregir_nombre(apellidoAux);
@@ -276,7 +307,9 @@ void gestion_eliminacion_ambos(alumno_t *base, size_t *sz)
 
         int opcionMultiple = 0;
         scanf("%d", &opcionMultiple);
-        while(getchar() != '\n'){};
+        while (getchar() != '\n')
+        {
+        };
         if (!opcionMultiple)
         {
             uint32_t nLegajo = 0;
@@ -313,4 +346,31 @@ void gestion_eliminacion_ambos(alumno_t *base, size_t *sz)
             }
         }
     }
+
+    free(nombreAux);
+    free(apellidoAux);
+}
+
+void gestion_eliminacion_legajo(alumno_t *base, size_t *sz)
+{
+    uint32_t nLegajo = 0;
+    printf("Ingrese el numero de legajo: ");
+    scanf("%u", &nLegajo);
+
+    for (int i = 0; i < (*sz); i++)
+    {
+        if ((nLegajo == (base[i].legajo)) && (nLegajo > 0))
+        {
+            printf("Legajo encontrado\n");
+            printf("Eliminando datos de %s %s\n", base[i].nombre, base[i].apellido);
+            free(base[i].nombre);
+            free(base[i].apellido);
+
+            reordenar(base, sz, i);
+
+            return;
+        }
+    }
+
+    printf("Legajo no encontrado\n");
 }

@@ -4,6 +4,7 @@
 #include "gestion.h"
 #include "eliminar.h"
 #include "utils.h"
+#include "nombre.h"
 
 #define NO_ENCONTRADO -1
 #define ENCONTRADO 0
@@ -89,9 +90,14 @@ int eliminacion_por_ambos(const alumno_t *base, size_t sz, char *nombre, char *a
 
 void gestion_eliminacion_nombre(alumno_t *base, size_t *sz)
 {
-    char nombreAux[80];
+    char *nombreAux;
     printf("Ingrese el nombre: ");
-    fgets(nombreAux, 80, stdin);
+    nombreAux = strWriter();
+    if(!nombreAux)
+    {
+        printf("Error al soliciar memoria, la funcion no puede seguir\n");
+        return;
+    }
     corregir_nombre(nombreAux);
 
     int eliminacion = eliminacion_por_nombre(base, *sz, nombreAux);
@@ -162,13 +168,20 @@ void gestion_eliminacion_nombre(alumno_t *base, size_t *sz)
             }
         }
     }
+
+    free(nombreAux);
 }
 
 void gestion_eliminacion_apellido(alumno_t *base, size_t *sz)
 {
-    char apellidoAux[80];
+    char *apellidoAux;
     printf("Ingrese el apellido: ");
-    fgets(apellidoAux, 80, stdin);
+    apellidoAux = strWriter();
+    if(!apellidoAux)
+    {
+        printf("Error al soliciar memoria, la funcion no puede seguir\n");
+        return;
+    }
     corregir_nombre(apellidoAux);
 
     int eliminacion = eliminacion_por_apellido(base, *sz, apellidoAux);
@@ -239,16 +252,28 @@ void gestion_eliminacion_apellido(alumno_t *base, size_t *sz)
             }
         }
     }
+    free(apellidoAux);
 }
 
 void gestion_eliminacion_ambos(alumno_t *base, size_t *sz)
 {
-    char nombreAux[80];
-    char apellidoAux[80];
+    char *nombreAux;
+    char *apellidoAux;
     printf("Introduzca el nombre: ");
-    fgets(nombreAux, 80, stdin);
+    nombreAux = strWriter();
     printf("Introduzca el apellido: ");
-    fgets(apellidoAux, 80, stdin);
+    apellidoAux = strWriter();
+
+    if(!nombreAux)
+    {
+        printf("Error al soliciar memoria, la funcion no puede seguir\n");
+        return;
+    }
+    if(!apellidoAux)
+    {
+        printf("Error al soliciar memoria, la funcion no puede seguir\n");
+        return;
+    }
 
     corregir_nombre(nombreAux);
     corregir_nombre(apellidoAux);
@@ -321,6 +346,9 @@ void gestion_eliminacion_ambos(alumno_t *base, size_t *sz)
             }
         }
     }
+
+    free(nombreAux);
+    free(apellidoAux);
 }
 
 void gestion_eliminacion_legajo(alumno_t *base, size_t *sz)

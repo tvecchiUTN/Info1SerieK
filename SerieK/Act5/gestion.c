@@ -5,7 +5,7 @@
 #include "gestion.h"
 #include "utils.h"
 #include "nombre.h"
-#include "eliminacion.h"
+#include "eliminar.h"
 
 // Ingreso de datos
 void ingreso_alumno(alumno_t *base, size_t *sz)

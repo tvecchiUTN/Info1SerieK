@@ -23,7 +23,7 @@ void eliminar_todo(alumno_t *base, size_t sz);
 
 #define QTTY_MEMO_ALLOC 40 //Se cambio la cantidad a 40
 
-//Utilizo variables globales para poder manejarlas con las señales
+//Utilizo variables estaticas para poder manejarlas con las señales
 //Pero consultar si es posible
 static alumno_t *baseDatos = NULL;
 static size_t szBase = 0;

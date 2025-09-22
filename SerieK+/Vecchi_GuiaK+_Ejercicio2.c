@@ -1,3 +1,7 @@
+//Guia K+
+//Ejercicio 2
+//Tomas Gabriel Vecchi
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -22,6 +26,10 @@ int main() {
   aux += addData(&da, "Quizas debas replantear parte de la solución.\n");
   if (aux != 4) {
     fprintf(stdout, "Error de memoria. Chau!!\n");
+    if(aux > 0)
+    {
+      freeData(&da);
+    }
     return 1;
   }
 
@@ -30,23 +38,29 @@ int main() {
   fprintf(stdout, "-----------------------------\n");
 
   aux = 0;
-  aux = addData( &db, "Bien, en este caso estamos iniciando con un addData en form directa\n");
+  aux = setData( &db, "Bien, en este caso estamos iniciando con un addData en form directa\n");
   aux += addData(&db, "Podemos hacer esto?.\n");
   aux += addData(&db, "Parecería que si, pues esto no se cuelga, por lo que debería estar bien.\n");
   aux += addData(&db, "Si. parece que esta perfecto!!!.\n");
   if (aux != 4) {
     fprintf(stdout, "Error de memoria. Chau!!\n");
-	  free(da.str);
+    freeData(&da);
+    if(aux > 0)
+    {
+      freeData(&db);
+    }
     return 1;
   }
   fprintf(stdout, ":--> %s\n", db.str);
   fprintf(stdout, "-----------------------------\n");
-  aux = setData(&da, "Estamos llegando al final de codigo,\n");
+  aux = addData(&da, "Estamos llegando al final de codigo,\n");
   aux += addData(&da, "Quien dijo que este codigo presenta algunos problemas.");
   aux += addData(&da, "Por lo que veo anda perfecto.\n");
   aux += addData(&da, "o quizás no? tendra eso que le llaman \"vicios ocultos\".\n");
   if (aux != 4) {
     fprintf(stdout, "Error de memoria. Chau!!\n");
+    freeData(&db);
+    freeData(&da);
     return 1;
   }
   fprintf(stdout, ":--> %s\n", da.str);

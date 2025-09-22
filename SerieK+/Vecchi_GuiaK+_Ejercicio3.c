@@ -1,3 +1,7 @@
+//Guia K+
+//Ejercicio 3
+//Tomas Gabriel Vecchi
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -50,11 +54,11 @@ char *getAllocNombre() {
   return sRet;
 }
 
-#define SIZE_TEST 100000
+#define SIZE_TEST 10000
 int main() {
   char **s;
   int i;
-
+  //unsigned ejecuciones_DEBUG = 0;
   while (1) {
     s = (char **)malloc(SIZE_TEST * sizeof(char *));
     if (!s) {
@@ -65,10 +69,21 @@ int main() {
       s[i] = getAllocNombre();
     }
 
-    for (i = 0; i < 5; i++)
+    for (i = 0; i < SIZE_TEST; i++)
+    {
       printf("%s\n", s[i]);
+      free(s[i]);
 
+    }
     free(s);
+    /*
+    ejecuciones_DEBUG++;
+
+    if(ejecuciones_DEBUG > 1000)
+    {
+      break;
+    }
+    */
   }
   return 0;
 }

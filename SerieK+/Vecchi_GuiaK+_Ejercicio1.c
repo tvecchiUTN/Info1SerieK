@@ -1,3 +1,7 @@
+//Guia K+
+//Ejercicio 1
+//Tomas Gabriel Vecchi
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

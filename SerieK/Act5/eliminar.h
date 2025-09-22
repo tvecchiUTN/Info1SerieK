@@ -1,3 +1,7 @@
+//Guia K
+//Ejercicio 5
+//Tomas Gabriel Vecchi
+
 #ifndef __ELIMINAR_H
 #define __ELIMINAR_H
 

@@ -1,3 +1,7 @@
+//Guia K
+//Ejercicio 7
+//Tomas Gabriel Vecchi
+
 #include <sys/types.h>
 #include <unistd.h>
 #include <signal.h>

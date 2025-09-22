@@ -1,5 +1,5 @@
 //Guia K
-//Ejercicio 7
+//Ejercicio 6
 //Tomas Gabriel Vecchi
 
 #include <stdio.h>

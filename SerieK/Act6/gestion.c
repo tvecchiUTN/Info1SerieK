@@ -1,5 +1,5 @@
 //Guia K
-//Ejercicio 7
+//Ejercicio 6
 //Tomas Gabriel Vecchi
 
 #include <stdio.h>
@@ -11,7 +11,6 @@
 #include "nombre.h"
 #include "eliminar.h"
 
-#define NUMERO_MAX_PERMITIDO 9999999
 // Ingreso de datos
 void ingreso_alumno(alumno_t *base, size_t *sz)
 {
@@ -21,7 +20,7 @@ void ingreso_alumno(alumno_t *base, size_t *sz)
         printf("Ingrese el numero de legajo: ");
         scanf("%u", &nLegajo);
         while (getchar() != '\n'){}; // Se utiliza para sacar el \n del scanf de arriba
-        if (nLegajo <= 0 || nLegajo > NUMERO_MAX_PERMITIDO)//Nuevo añadido para no permitir numeros negativos
+        if (nLegajo == 0)
         {
             printf("Numero de legajo no permitido\n");
             continue;
@@ -116,7 +115,6 @@ void consultar_alumno(const alumno_t *base, size_t sz)
 #define POR_NOMBRE 0
 #define POR_APELLIDO 1
 #define AMBOS 2
-#define LEGAJO 3
 // Eliminacion de datos de alumno
 void eliminar_alumno(alumno_t *base, size_t *sz)
 {
@@ -124,7 +122,6 @@ void eliminar_alumno(alumno_t *base, size_t *sz)
     printf("0- Eliminar por nombre\n");
     printf("1- Eliminar por apellido\n");
     printf("2- Eliminar por nombre y apellido\n");
-    printf("3- Eliminar por legajo\n");
 
     int opcionEliminar = 0;
     scanf("%d", &opcionEliminar);
@@ -142,9 +139,6 @@ void eliminar_alumno(alumno_t *base, size_t *sz)
 
     case AMBOS:
             gestion_eliminacion_ambos(base, sz);
-        break;
-    case LEGAJO:
-            gestion_eliminacion_legajo(base, sz);
         break;
 
     default:

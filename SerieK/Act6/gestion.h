@@ -1,11 +1,10 @@
 //Guia K
-//Ejercicio 7
+//Ejercicio 6
 //Tomas Gabriel Vecchi
 
 #ifndef __GESTION_H
 #define __GESTION_H
 
-#include <stddef.h>
 #include <stdint.h>
 typedef struct
 {
